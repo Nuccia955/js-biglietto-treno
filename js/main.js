@@ -1,7 +1,7 @@
 // TASK CALC TRAIN TICKET PRICE
 
 // 1. ask user km to do
-const km = parseInt( prompt("Digit the number of km you have to do"));
+const km = parseInt( prompt("Type the number of km you have to do"));
 
 // 2. ask user age
 const age = parseInt( prompt("Digit your age (numeral type)"));
